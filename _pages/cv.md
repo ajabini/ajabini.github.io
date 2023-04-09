@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering, Sharif University of Technology, 2015
+* M.S. in Enineering, Sharif University of Technology, 2018
+* M.S. in Computer Science, University of Southern California, 2022
+* Ph.D in Engineering, University of Southern California, 2024 (expected)
 
 Work experience
 ======
