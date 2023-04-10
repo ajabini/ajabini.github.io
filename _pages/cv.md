@@ -18,24 +18,45 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2019- Now: Research Assistant
+  * Control and Uncertainty Quantification Lab, USC
+  * Project: Deep Reinforcement Learing in measruement optimization
+  * Supervisor: Professor Johnson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2022: Research Assistant
+  * CPS-VIDA Lab, USC
+  * Project: Adversarial framework for automatic testing of cyber-physical systems
+  * Supervisor: Professor Deshmukh
+
+* Summer 2021: Research Scientist Intern at Got It AI
+  * Project: Building a Name Entity Recognition pipeline that can extract 9 entities of address, phone number, email, name, url, money, date, time and number in chats
+  * Supervisors: Nikhil Varghese and Amol Kelkar
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python
+  * R
+  * MATLAB
+
+* ML and Deep Learning
+  * Pytorch
+  * Tensorflow
+  * Keras
+  * Huggingface
+  * Scikit-learn
+
+* Reinforcement Learning
+  * Gym
+  * Petting zoo
+
+* Computer Vision
+  * OpenCV
+
+* Tools
+  * Git
+  * Docker
 
 Publications
 ======

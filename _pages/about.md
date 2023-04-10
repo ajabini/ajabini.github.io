@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is Amin Jabini's homepage. 
+Welcome to homepage. 
+
+News
+===
+
