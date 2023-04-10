@@ -2,7 +2,7 @@
 title: "PROBABILISTIC BLIND IDENTIFICATION OF SOIL-STRUCTURE SYSTEMS USING EXTENDED KALMAN FILTER"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-# excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2018
 venue: '11NCEE'
 paperurl: 'https://www.semanticscholar.org/paper/PROBABILISTIC-BLIND-IDENTIFICATION-OF-SYSTEMS-USING-Jabini-Mahsuli/ba1d28f8bf9fe279f89e54cc16a26e96a8c46c85'
