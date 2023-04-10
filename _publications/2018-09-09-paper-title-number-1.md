@@ -12,6 +12,6 @@ This paper is from my masters work.
 
 [Download paper here](https://www.11ncee.org/images/program/papers/11NCEE-000176.pdf)
 
-Recommended citation: Jabini, A., M. Mahsuli, and S. F. Ghahari. "PROBABILISTIC BLIND IDENTIFICATION OF SOIL-STRUCTURE SYSTEMS USING EXTENDED KALMAN FILTER." <i>Proceedings of the 11th National Conference in Earthquake Engineering, Earthquake Engineering Research
-Institute, Los Angeles, CA. 2018</i>.
+<!-- Recommended citation: Jabini, A., M. Mahsuli, and S. F. Ghahari. "PROBABILISTIC BLIND IDENTIFICATION OF SOIL-STRUCTURE SYSTEMS USING EXTENDED KALMAN FILTER." <i>Proceedings of the 11th National Conference in Earthquake Engineering, Earthquake Engineering Research
+Institute, Los Angeles, CA. 2018</i>. -->
 

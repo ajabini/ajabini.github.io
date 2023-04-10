@@ -11,4 +11,4 @@ citation: 'Jabini, A., & Johnson, E. A. (2023). Measurement Optimization under U
 
 [Download paper here](https://arxiv.org/abs/2303.09750)
 
-Recommended citation: Jabini, A., & Johnson, E. A. (2023). Measurement Optimization under Uncertainty using Deep Reinforcement Learning. arXiv preprint arXiv:2303.09750.
+<!-- Recommended citation: Jabini, A., & Johnson, E. A. (2023). Measurement Optimization under Uncertainty using Deep Reinforcement Learning. arXiv preprint arXiv:2303.09750. -->

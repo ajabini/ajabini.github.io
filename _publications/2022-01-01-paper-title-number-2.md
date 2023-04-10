@@ -11,4 +11,4 @@ citation: 'Jabini, A., & Johnson, E. A. (2022). A Deep Reinforcement Learning Ap
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S2405896322025617)
 
-Recommended citation: Jabini, A., & Johnson, E. A. (2022). A Deep Reinforcement Learning Approach to Sensor Placement under Uncertainty. IFAC-PapersOnLine, 55(27), 178-183.
+<!-- Recommended citation: Jabini, A., & Johnson, E. A. (2022). A Deep Reinforcement Learning Approach to Sensor Placement under Uncertainty. IFAC-PapersOnLine, 55(27), 178-183. -->
