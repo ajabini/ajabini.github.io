@@ -8,11 +8,20 @@ redirect_from:
   - /courses
 ---
 {% include base_path %}
-Welcome to my homepage!! Here is the most recent news on my activities: 
+Graduate Coursework: 
 
-News
+Computer Science
 ===
-- **[April 7, 2023]** &emsp; Abstract accepted at IWSHM 2023. Will present at Stanford in September.
-- **[March 15, 2023]** &emsp; Abstract accepted in EMI 2023. Will present at EMI this year at Georgia Tech in June.
-- **[March 15, 2023]** &emsp; Participated in EMI student paper competition.
-- **[December 15, 2022]** &emsp; Finished my PhD coursework.
+* CSCI 659 Online optimization
+* CSCI 677 Advanced computer vision
+* CSCI 513 Autonomous cyber physical systems
+* CSCI 585 Database systems
+* CSCI 567 Machine Learning
+* CSCI 570 Analysis of Algorithms
+* CSCI 561 Foundations of AI
+
+Fundamentals
+===
+* EE 503  Probability for Electrical and Computer Engineers
+* EE 510  Linear Algebra for Engineering
+* CE  561 Uncertainty Quantification
