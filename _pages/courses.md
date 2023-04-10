@@ -5,7 +5,6 @@ excerpt: "Courses!"
 author_profile: true
 redirect_from: 
   - /courses/
-  - /courses.html
 ---
 
 Welcome to my homepage!! Here is the most recent news on my activities: 
