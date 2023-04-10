@@ -5,7 +5,7 @@ title: "Courses"
 excerpt: "Courses!"
 author_profile: true
 redirect_from: 
-  - /courses/
+  - /courses
 ---
 {% include base_path %}
 Welcome to my homepage!! Here is the most recent news on my activities: 
