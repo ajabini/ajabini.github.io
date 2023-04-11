@@ -1,14 +1,14 @@
 ---
 layout: archive
 permalink: /courses/
-title: "Courses"
+title: "Graduate Coursework"
 excerpt: "Courses!"
 author_profile: true
 redirect_from: 
   - /courses
 ---
 {% include base_path %}
-Graduate Coursework: 
+<!-- Graduate Coursework:  -->
 
 Computer Science
 ===

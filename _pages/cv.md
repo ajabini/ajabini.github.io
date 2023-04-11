@@ -18,13 +18,11 @@ Education
 
 Work experience
 ======
-* Jan 2019- Now: Research Assistant
-  * Control and Uncertainty Quantification Lab, USC
+* Jan 2019- Now: Research Assistant, Control and Uncertainty Quantification Lab, USC
   * Project: Deep Reinforcement Learing in measruement optimization
   * Supervisor: Professor Johnson
 
-* Summer 2022: Research Assistant
-  * CPS-VIDA Lab, USC
+* Summer 2022: Research Assistant, CPS-VIDA Lab, USC
   * Project: Adversarial framework for automatic testing of cyber-physical systems
   * Supervisor: Professor Deshmukh
 
@@ -78,4 +76,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Research mentor at Viterbi Summber institute (Summer 2020): &emsp; Mentored 10 incoming USC undergraduate students in a 4-week project. Thought programming with MATLAB. Results were presented in an online poster session to 100+ audience.
+* Department senator at Viterbi Graduate Student Association (VGSA) (Fall and spring 2020): &emsp;Chosen by department-wide election; Coordinated social, academic and career events for the department. 
+* Reseach mentor for undergradute students (Summer 2020) Mentored two undergraduate students in a research project. 
+* Research mentor at Viterbi Summber institute (Summer 2020) Mentored 4 incoming USC undergraduate students in a project. 
+
