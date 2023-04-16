@@ -136,6 +136,7 @@ Awards and honors
       <li style="display: flex; justify-content: space-between;">
         <span>Elite Foundation of Iran scholarship</span>
         <span>[2015]</span>
+      </li>
     </ul>
 </div>
 
