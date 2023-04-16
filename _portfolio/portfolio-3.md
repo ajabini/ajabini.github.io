@@ -1,6 +1,6 @@
 ---
-title: "Heterogeneous Sensor Placement under Uncertainty"
-excerpt: "Heterogeneous Sensor Placement under Uncertainty<br/><img height= '1.5in' src='/images/sp.jpeg'>"
+title: "Name Entity Recognition System"
+excerpt: "Name Entity Recognition<br/><img height= '2in' src='/images/ner.png'>"
 collection: portfolio
 ---
 
