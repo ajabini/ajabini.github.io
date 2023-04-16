@@ -13,7 +13,6 @@ Welcome to my homepage!! Here is the most recent news on my activities:
 News
 ====
 <div class="flexcontainer">
-  <div>
     <ul>
       <li style="display: flex; justify-content: space-between;">
         <span>Abstract accepted at IWSHM 2023. Will present at Stanford in September.</span>
@@ -32,7 +31,6 @@ News
         <span>December 15, 2022</span>
       </li>
     </ul>
-  </div>
 </div>
 
 <!-- * **[April 7, 2023]** &emsp; Abstract accepted at IWSHM 2023. 
