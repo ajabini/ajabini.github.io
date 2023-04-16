@@ -37,7 +37,7 @@ Education
 <div class="flexcontainer">
   <div>
     <a href="https://en.sharif.edu/" onclick="trackOutboundLink(this);">
-      <img height="140px" src="/images/sharif_logo.png" width="85px">
+      <img height="140px" src="/images/sharif_logo.png" width="70px">
     </a>
   </div>
   <div>
