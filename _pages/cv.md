@@ -84,29 +84,21 @@ Work experience
 Skills
 ======
 * Programming Languages
-  * Python
-  * R
-  * MATLAB
+  * Python | R | MATLAB
+
 
 * ML and Deep Learning
-  * Pytorch
-  * Tensorflow
-  * Keras
-  * Huggingface
-  * Scikit-learn
+  * Pytorch | Tensorflow | Keras | Huggingface | Scikit-learn
 
 * Reinforcement Learning
-  * OpenAI Gym
-  * Petting zoo
-  * Stable baselines
+  * OpenAI Gym | Petting zoo | Stable baselines
 
 
 * Computer Vision
   * OpenCV
 
 * Tools
-  * Git
-  * Docker
+  * Git | Docker
 
 Publications
 ======
