@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assitant for Dynamics of Structures"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2019-fall-teaching-1
 venue: "University of Southern California"
 date: 2019-09-01

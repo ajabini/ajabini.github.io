@@ -1,7 +1,7 @@
 ---
-title: "Teaching assistant for Theory of Structures"
+title: "Teaching Assistant for Theory of Structures"
 collection: teaching
-type: "Course"
+type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
 venue: "University of Southern California"
 date: 2022-09-01
