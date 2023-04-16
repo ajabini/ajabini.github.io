@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -42,7 +42,8 @@ Education
   </div>
   <div>
     <ul>
-      <li>Master of Science in Engineering, Sharif University of Technology, 2018</li>
+      <li>Master of Science in Engineering, Sharif University of Technology</span>
+        <span>2018</li>
       <li style="display: flex; justify-content: space-between;">
         <span>Bachelor of Science in Engineering, Sharif University of Technology</span>
         <span>2015</span>
