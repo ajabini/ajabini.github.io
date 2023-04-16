@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-<div class="flexcontainer"> <div> <a href="https://stanford.edu" onclick="trackOutboundLink(this);"> <img height="89px" src="images/usc_logo.png" width="100px"> </a> </div> <div> <ul> <li>Data Science track of the <a href="https://icme.stanford.edu" onclick="trackOutboundLink(this);">Computational and Mathematical Engineering department</a></li> <li>Research at the <a href="http://svl.stanford.edu" onclick="trackOutboundLink(this);">Stanford Vision Lab</a></li> <li>TA at Stanford's Computer Science and ICME departments</li> </ul> </div> </div>
+<div class="flexcontainer"> <div> <a href="https://usc.edu" onclick="trackOutboundLink(this);"> <img height="89px" src="/images/usc_logo.png" width="100px"> </a> </div> <div> <ul> <li>Data Science track of the <a href="https://icme.stanford.edu" onclick="trackOutboundLink(this);">Computational and Mathematical Engineering department</a></li> <li>Research at the <a href="http://svl.stanford.edu" onclick="trackOutboundLink(this);">Stanford Vision Lab</a></li> <li>TA at Stanford's Computer Science and ICME departments</li> </ul> </div> </div>
 
-- <img src="/images/usc_logo.png" alt="USC" height="120" width="120">  
+- <img src="/images/usc_logo.png" alt="USC" width="120">  
   * Ph.D in Engineering, University of Southern California, 2024 (expected)
   * M.S. in Computer Science, University of Southern California, 2022
 - <img src="/images/sharif_logo.png" alt="SUT" height="120" width="120">  
@@ -32,7 +32,7 @@ Work experience
   * Project: Adversarial framework for automatic testing of cyber-physical systems
   * Supervisor: Professor Deshmukh
 
-* NLP Research Scientist Intern at Got It AI &emsp; Summer 2021
+* NLP Research Scientist Intern at Got It AI *** Summer 2021
   * Project: Building a Name Entity Recognition pipeline that can extract 9 entities of address, phone number, email, name, url, money, date, time and number in chats
   * Supervisors: Nikhil Varghese and Amol Kelkar
 
