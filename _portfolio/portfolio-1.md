@@ -1,6 +1,6 @@
 ---
 title: "Heterogeneous Sensor Placement under Uncertainty"
-excerpt: "<br/><img height= '1in' width='1in' src='/images/sp.jpeg'>"
+excerpt: <img src="/images/sp.jpeg" alt="image" width="100" height="100">
 collection: portfolio
 ---
 
