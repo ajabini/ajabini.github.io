@@ -119,14 +119,33 @@ Publications
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
-  
+
+Awards and honors
+======
+
+<div class="flexcontainer">
+    <ul>
+      <li style="display: flex; justify-content: space-between;">
+        <span>Annenberg Fellowship award</span>
+        <span>[2019]</span>
+      </li>
+      <li style="display: flex; justify-content: space-between;">
+        <span>6th place prizewinner of the LG Global Challenger Iran</span>
+        <span>[2018]</span>
+      </li>
+      <li style="display: flex; justify-content: space-between;">
+        <span>Elite Foundation of Iran scholarship</span>
+        <span>[2015]</span>
+    </ul>
+</div>
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Leadership
 ======
 * Research mentor at Viterbi Summber institute (Summer 2020): 
  Mentored 10 incoming USC undergraduate students in a 4-week project. Thought programming with MATLAB. Results were presented in an online poster session to 100+ audience.
