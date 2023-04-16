@@ -7,13 +7,49 @@ redirect_from:
   - /cv
 ---
 
-{% include base_path %}
-======
+<!-- {% include base_path %} -->
+
+
+
+
 Education
 ======
-<div class="flexcontainer"> <div> <a href="https://usc.edu" onclick="trackOutboundLink(this);"> <img height="150px" src="/images/usc_logo.png" width="250px"> </a> </div> <div> <ul> <li>Ph.D in Engineering, University of Southern California<div style="text-align: right"> 2024 [Expected]</div></li> <li>M.S. in Computer Science, University of Southern California<div style="text-align: right"> 2022</div></li></ul> </div> </div>
+<div class="flexcontainer">
+  <div>
+    <a href="https://usc.edu" onclick="trackOutboundLink(this);">
+      <img height="150px" src="/images/usc_logo.png" width="250px">
+    </a>
+  </div>
+  <div>
+    <ul>
+      <li style="display: flex; justify-content: space-between;">
+        <span>Ph.D in Engineering, University of Southern California</span>
+        <span>2024 [Expected]</span>
+      </li>
+      <li style="display: flex; justify-content: space-between;">
+        <span>M.S. in Computer Science, University of Southern California</span>
+        <span>2022</span>
+      </li>
+    </ul>
+  </div>
+</div>
 
-<div class="flexcontainer"> <div> <a href="https://en.sharif.edu/" onclick="trackOutboundLink(this);"> <img height="140px" src="/images/sharif_logo.png" width="100px"> </a> </div> <div> <ul> <li>Master of science in Enineering, Sharif University of Technology, 2018</li> <li>Bachelor of Science in Engineering, Sharif University of Technology, <p align="right">2015</p> </li> </ul> </div> </div>
+<div class="flexcontainer">
+  <div>
+    <a href="https://en.sharif.edu/" onclick="trackOutboundLink(this);">
+      <img height="140px" src="/images/sharif_logo.png" width="100px">
+    </a>
+  </div>
+  <div>
+    <ul>
+      <li>Master of Science in Engineering, Sharif University of Technology, 2018</li>
+      <li style="display: flex; justify-content: space-between;">
+        <span>Bachelor of Science in Engineering, Sharif University of Technology</span>
+        <span>2015</span>
+      </li>
+    </ul>
+  </div>
+</div>
 
 <!-- <div class="flexcontainer"> <div> <a href="https://en.sharif.edu/" onclick="trackOutboundLink(this);"> <img height="150px" src="/images/sharif_logo.png" width="100px"> </a> </div> <div> <ul> <li>Data Science track of the <a href="https://icme.stanford.edu" onclick="trackOutboundLink(this);">Computational and Mathematical Engineering department</a></li> <li>Research at the <a href="http://svl.stanford.edu" onclick="trackOutboundLink(this);">Stanford Vision Lab</a></li> <li>TA at Stanford's Computer Science and ICME departments</li> </ul> </div> </div> -->
 
