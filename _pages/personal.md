@@ -9,5 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-In my time, I enjoy photogrophy, hiking, swimming and running. Here is a photo of us on our way back from climbing the Angeles landing in Zion National park:
+In my free time, I enjoy photogrophy, hiking, swimming and running. Here is a photo of us on our way back from climbing the Angeles landing in Zion National park:
 ![Angeles Landing!](/images/DSC01291.JPG "Angeles Landing")
+<img src="/images/DSC01291.JPG" height="10in">
