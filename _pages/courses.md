@@ -11,7 +11,7 @@ redirect_from:
 <!-- Graduate Coursework:  -->
 
 Computer Science
-===
+---
 * CSCI 659 Online optimization
 * CSCI 677 Advanced computer vision
 * CSCI 513 Autonomous cyber physical systems
@@ -21,7 +21,7 @@ Computer Science
 * CSCI 561 Foundations of AI
 
 Fundamentals
-===
+---
 * EE 503  Probability for Electrical and Computer Engineers
 * EE 510  Linear Algebra for Engineering
 * CE  561 Uncertainty Quantification
