@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-* Research Assistant, Control and Uncertainty Quantification Lab, USC  <html><div style="text-align: right"> Jan 2019- Now </div> </html>
+* Research Assistant, Control and Uncertainty Quantification Lab, USC  <p align="right">Jan 2019- Now</p>
   * Project: Deep Reinforcement Learing in measruement optimization
   * Supervisor: Professor Johnson
 
