@@ -1,6 +1,6 @@
 ---
 title: "Name Entity Recognition System"
-excerpt: "<br/><img height= '1in'  width='1in' src='/images/ner.png'>"
+excerpt: '<br/><img src="/images/ner.png" alt="sensor placement" height="200"  width="200">'
 collection: portfolio
 ---
 # NER-pipeline
