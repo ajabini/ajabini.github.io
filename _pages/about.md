@@ -15,11 +15,11 @@ News
 <div class="flexcontainer">
     <ul>
       <li style="display: flex; justify-content: space-between;">
-        <span>Abstract accepted at IWSHM 2023. Will present at Stanford in September.</span>
+        <span>Abstract accepted at IWSHM 2023. <br>Will present at Stanford in September.</span>
         <span>April 7, 2023</span>
       </li>
       <li style="display: flex; justify-content: space-between;">
-        <span>Abstract accepted in EMI 2023. Will present at EMI this year at Georgia Tech in June.</span>
+        <span>Abstract accepted in EMI 2023.<br> Will present at EMI this year at Georgia Tech in June.</span>
         <span>March 15, 2023</span>
       </li>
       <li style="display: flex; justify-content: space-between;">
