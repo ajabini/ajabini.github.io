@@ -72,7 +72,7 @@ Work experience
   * Project: Deep Reinforcement Learing in measruement optimization
   * Supervisor: Professor Johnson
 
-* Research Assistant at CPS-VIDA Lab, USC [Summer 2022-Now]
+* Research Assistant at <a href="https://cps-vida.github.io/" target="_blank"> CPS-VIDA Lab</a>, USC [Summer 2022-Now]
   * Project: Adversarial framework for automatic testing of cyber-physical systems
   * Supervisor: Professor Deshmukh
 
@@ -84,21 +84,21 @@ Work experience
 Skills
 ======
 * Programming Languages
-  * Python \| R \| MATLAB
+  * Python  \|  R  \|  MATLAB
 
 
 * ML and Deep Learning
-  * Pytorch \| Tensorflow \| Keras \| Huggingface \| Scikit-learn
+  * Pytorch  \|  Tensorflow  \|  Keras  \|  Huggingface  \|  Scikit-learn
 
 * Reinforcement Learning
-  * OpenAI Gym \| Petting zoo \| Stable baselines
+  * OpenAI Gym  \|  Petting zoo  \|  Stable baselines
 
 
 * Computer Vision
   * OpenCV
 
 * Tools
-  * Git \| Docker
+  * Git  \|  Docker
 
 Publications
 ======
