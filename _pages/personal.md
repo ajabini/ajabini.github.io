@@ -1,20 +1,20 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "The other side of me"
+permalink: /personal/
 author_profile: true
 redirect_from:
-  - /resume
+  - /personal
 ---
 
 {% include base_path %}
 
-Education
+Education 
 ======
-* Ph.D in Engineering, University of Southern California, 2024 (expected)
-* M.S. in Computer Science, University of Southern California, 2022
-* M.S. in Enineering, Sharif University of Technology, 2018
-* B.S. in Engineering, Sharif University of Technology, 2015
+- <img src="images/usc_logo.png" alt="USC" height="20" width="20"> * Ph.D in Engineering, University of Southern California, 2024 (expected)
+- * M.S. in Computer Science, University of Southern California, 2022
+- <img src="images/sharif_logo.png" alt="SUT" height="20" width="20">  * M.S. in Enineering, Sharif University of Technology, 2018
+- * B.S. in Engineering, Sharif University of Technology, 2015 
 
 
 
