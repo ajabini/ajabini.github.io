@@ -14,7 +14,7 @@ Education
  <img src="/images/usc_logo.png" alt="USC" height="1.5in" width="1.5in"> 
  * Ph.D in Engineering, University of Southern California, 2024 (expected)
  * M.S. in Computer Science, University of Southern California, 2022
- <img src="/images/sharif_logo.png" alt="SUT" height="1.5in" width="1.5in">  
+ <img src="/images/sharif_logo.png" alt="SUT" height="1.5in" width="1.5in"> 
  * M.S. in Enineering, Sharif University of Technology, 2018
  * B.S. in Engineering, Sharif University of Technology, 2015 
 
