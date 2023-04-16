@@ -1,6 +1,6 @@
 ---
 title: "Name Entity Recognition System"
-excerpt: "br/><img height= '1in' src='/images/ner.png'>"
+excerpt: "<br/><img height= '1in'  width='1in' src='/images/ner.png'>"
 collection: portfolio
 ---
 # NER-pipeline
@@ -28,13 +28,14 @@ he list of available entities, the corresponding component and the parser:
 
 | Entity Name     | Component         | Parser     |
 |-----------------|-------------------|------------|
-| Money           | 1) Money 2) Flair | duckling   |
+| Money           | 1) Money <br> 2) Flair | duckling   |
 | URL             | url               | duckling   |
 | Phone           | regex             | duckling   |
 | Email           | regex             | duckling   |
 | Address         | address           | usaddress  |
 | Person          | flair             | -          |
 | Ordinal Number  | flair             | duckling   |
-| Cardinal Number | cardnial          | duckling   |
+| Cardinal Number | cardinal          | duckling   |
 | Datetime        | flair             | dateparser |
+
 <!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
