@@ -16,19 +16,19 @@ News
     <ul>
       <li style="display: flex; justify-content: space-between;">
         <span>Abstract accepted at IWSHM 2023. <br>Will present at Stanford in September.</span>
-        <span>April 7, 2023</span>
+        <span><strong>[April 7, 2023]</strong></span>
       </li>
       <li style="display: flex; justify-content: space-between;">
         <span>Abstract accepted in EMI 2023.<br> Will present at EMI this year at Georgia Tech in June.</span>
-        <span>March 15, 2023</span>
+        <span><strong>[March 15, 2023]</strong></span>
       </li>
       <li style="display: flex; justify-content: space-between;">
         <span>Participated in EMI student paper competition.</span>
-        <span>March 15, 2023</span>
+        <span><strong>[March 15, 2023]</strong></span>
       </li>
       <li style="display: flex; justify-content: space-between;">
         <span>Finished my PhD coursework.</span>
-        <span>December 15, 2022</span>
+        <span><strong>[December 15, 2022]</strong></span>
       </li>
     </ul>
 </div>
