@@ -11,24 +11,24 @@ redirect_from:
 
 Education 
 ======
-- <img src="images/usc_logo.png" alt="USC" height="20" width="20"> * Ph.D in Engineering, University of Southern California, 2024 (expected)
+- <img src="/images/usc_logo.png" alt="USC" height="20" width="20"> * Ph.D in Engineering, University of Southern California, 2024 (expected)
 - * M.S. in Computer Science, University of Southern California, 2022
-- <img src="images/sharif_logo.png" alt="SUT" height="20" width="20">  * M.S. in Enineering, Sharif University of Technology, 2018
+- <img src="/ images/sharif_logo.png" alt="SUT" height="20" width="20">  * M.S. in Enineering, Sharif University of Technology, 2018
 - * B.S. in Engineering, Sharif University of Technology, 2015 
 
 
 
 Work experience
 ======
-* Research Assistant, Control and Uncertainty Quantification Lab, USC &emsp; Jan 2019- Now
+* Research Assistant, Control and Uncertainty Quantification Lab, USC &emsp; [Jan 2019- Now]
   * Project: Deep Reinforcement Learing in measruement optimization
   * Supervisor: Professor Johnson
 
-* Research Assistant, CPS-VIDA Lab, USC &emsp; Summer 2022
+* Research Assistant, CPS-VIDA Lab, USC &emsp; [Summer 2022]
   * Project: Adversarial framework for automatic testing of cyber-physical systems
   * Supervisor: Professor Deshmukh
 
-* NLP Research Scientist Intern at Got It AI &emsp; Summer 2021
+* NLP Research Scientist Intern at Got It AI &emsp; [Summer 2021]
   * Project: Building a Name Entity Recognition pipeline that can extract 9 entities of address, phone number, email, name, url, money, date, time and number in chats
   * Supervisors: Nikhil Varghese and Amol Kelkar
 
