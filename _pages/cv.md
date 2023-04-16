@@ -11,22 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering, Sharif University of Technology, 2015
-* M.S. in Enineering, Sharif University of Technology, 2018
-* M.S. in Computer Science, University of Southern California, 2022
 * Ph.D in Engineering, University of Southern California, 2024 (expected)
+* M.S. in Computer Science, University of Southern California, 2022
+* M.S. in Enineering, Sharif University of Technology, 2018
+* B.S. in Engineering, Sharif University of Technology, 2015
+
+
 
 Work experience
 ======
-* Jan 2019- Now: Research Assistant, Control and Uncertainty Quantification Lab, USC
+* Research Assistant, Control and Uncertainty Quantification Lab, USC &emsp; Jan 2019- Now
   * Project: Deep Reinforcement Learing in measruement optimization
   * Supervisor: Professor Johnson
 
-* Summer 2022: Research Assistant, CPS-VIDA Lab, USC
+* Research Assistant, CPS-VIDA Lab, USC &emsp; Summer 2022
   * Project: Adversarial framework for automatic testing of cyber-physical systems
   * Supervisor: Professor Deshmukh
 
-* Summer 2021: Research Scientist Intern at Got It AI
+* NLP Research Scientist Intern at Got It AI &emsp; Summer 2021
   * Project: Building a Name Entity Recognition pipeline that can extract 9 entities of address, phone number, email, name, url, money, date, time and number in chats
   * Supervisors: Nikhil Varghese and Amol Kelkar
 
@@ -46,8 +48,10 @@ Skills
   * Scikit-learn
 
 * Reinforcement Learning
-  * Gym
+  * OpenAI Gym
   * Petting zoo
+  * Stable baselines
+
 
 * Computer Vision
   * OpenCV
@@ -58,7 +62,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -76,8 +80,8 @@ Teaching
   
 Service and leadership
 ======
-* Research mentor at Viterbi Summber institute (Summer 2020): &emsp; Mentored 10 incoming USC undergraduate students in a 4-week project. Thought programming with MATLAB. Results were presented in an online poster session to 100+ audience.
-* Department senator at Viterbi Graduate Student Association (VGSA) (Fall and spring 2020): &emsp;Chosen by department-wide election; Coordinated social, academic and career events for the department. 
-* Reseach mentor for undergradute students (Summer 2020) Mentored two undergraduate students in a research project. 
-* Research mentor at Viterbi Summber institute (Summer 2020) Mentored 4 incoming USC undergraduate students in a project. 
+* Research mentor at Viterbi Summber institute (Summer 2020): \ Mentored 10 incoming USC undergraduate students in a 4-week project. Thought programming with MATLAB. Results were presented in an online poster session to 100+ audience.
+* Department senator at Viterbi Graduate Student Association (VGSA) (Fall and spring 2020): \Chosen by department-wide election; Coordinated social, academic and career events for the department. 
+* Reseach mentor for undergradute students (Summer 2020)\ Mentored two undergraduate students in a research project. 
+* Research mentor at Viterbi Summber institute (Summer 2020)\ Mentored 4 incoming USC undergraduate students in a project. 
 
