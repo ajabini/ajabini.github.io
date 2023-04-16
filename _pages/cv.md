@@ -42,8 +42,10 @@ Education
   </div>
   <div>
     <ul>
-      <li>Master of Science in Engineering, Sharif University of Technology</span>
-        <span>2018</li>
+      <li style="display: flex; justify-content: space-between;">
+      <span>Master of Science in Engineering, Sharif University of Technology</span>
+        <span>2018</span>
+      </li>
       <li style="display: flex; justify-content: space-between;">
         <span>Bachelor of Science in Engineering, Sharif University of Technology</span>
         <span>2015</span>
