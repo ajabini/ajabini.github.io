@@ -11,17 +11,19 @@ redirect_from:
 
 Education
 ======
-<div class="flexcontainer"> <div> <a href="https://usc.edu" onclick="trackOutboundLink(this);"> <img height="150px" src="/images/usc_logo.png" width="250px"> </a> </div> <div> <ul> <li>Data Science track of the <a href="https://icme.stanford.edu" onclick="trackOutboundLink(this);">Computational and Mathematical Engineering department</a></li> <li>Research at the <a href="http://svl.stanford.edu" onclick="trackOutboundLink(this);">Stanford Vision Lab</a></li> <li>TA at Stanford's Computer Science and ICME departments</li> </ul> </div> </div>
+<div class="flexcontainer"> <div> <a href="https://usc.edu" onclick="trackOutboundLink(this);"> <img height="150px" src="/images/usc_logo.png" width="250px"> </a> </div> <div> <ul> <li>Ph.D in Engineering, University of Southern California, <p align="right">2024 (expected)</p></a></li> <li>M.S. in Computer Science, University of Southern California, <p align="right">2022</p></li></ul> </div> </div>
 
-<div class="flexcontainer"> <div> <a href="https://en.sharif.edu/" onclick="trackOutboundLink(this);"> <img height="150px" src="/images/sharif_logo.png" width="100px"> </a> </div> <div> <ul> <li>Data Science track of the <a href="https://icme.stanford.edu" onclick="trackOutboundLink(this);">Computational and Mathematical Engineering department</a></li> <li>Research at the <a href="http://svl.stanford.edu" onclick="trackOutboundLink(this);">Stanford Vision Lab</a></li> <li>TA at Stanford's Computer Science and ICME departments</li> </ul> </div> </div>
+<div class="flexcontainer"> <div> <a href="https://en.sharif.edu/" onclick="trackOutboundLink(this);"> <img height="140px" src="/images/sharif_logo.png" width="100px"> </a> </div> <div> <ul> <li>Master of science in Enineering, Sharif University of Technology, 2018</li> <li>Bachelor of Science in Engineering, Sharif University of Technology, <p align="right">2015</p> </li> </ul> </div> </div>
+
+<!-- <div class="flexcontainer"> <div> <a href="https://en.sharif.edu/" onclick="trackOutboundLink(this);"> <img height="150px" src="/images/sharif_logo.png" width="100px"> </a> </div> <div> <ul> <li>Data Science track of the <a href="https://icme.stanford.edu" onclick="trackOutboundLink(this);">Computational and Mathematical Engineering department</a></li> <li>Research at the <a href="http://svl.stanford.edu" onclick="trackOutboundLink(this);">Stanford Vision Lab</a></li> <li>TA at Stanford's Computer Science and ICME departments</li> </ul> </div> </div> -->
 
 
-- <img src="/images/usc_logo.png" alt="USC" width="200px">  
+<!-- - <img src="/images/usc_logo.png" alt="USC" width="200px">  
   * Ph.D in Engineering, University of Southern California, 2024 (expected)
   * M.S. in Computer Science, University of Southern California, 2022
 - <img src="/images/sharif_logo.png" alt="SUT" height="120" width="120">  
 * M.S. in Enineering, Sharif University of Technology, 2018
-* B.S. in Engineering, Sharif University of Technology, 2015 
+* B.S. in Engineering, Sharif University of Technology, 2015  -->
 
 
 
