@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+<div class="flexcontainer"> <div> <a href="https://stanford.edu" onclick="trackOutboundLink(this);"> <img height="89px" src="images/usc_logo.png" width="100px"> </a> </div> <div> <ul> <li>Data Science track of the <a href="https://icme.stanford.edu" onclick="trackOutboundLink(this);">Computational and Mathematical Engineering department</a></li> <li>Research at the <a href="http://svl.stanford.edu" onclick="trackOutboundLink(this);">Stanford Vision Lab</a></li> <li>TA at Stanford's Computer Science and ICME departments</li> </ul> </div> </div>
 
 - <img src="/images/usc_logo.png" alt="USC" height="120" width="120">  
   * Ph.D in Engineering, University of Southern California, 2024 (expected)
