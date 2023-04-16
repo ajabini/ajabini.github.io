@@ -139,12 +139,14 @@ Awards and honors
     </ul>
 </div>
 
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
 Leadership
 ======
 * Research mentor at Viterbi Summber institute (Summer 2020): 
