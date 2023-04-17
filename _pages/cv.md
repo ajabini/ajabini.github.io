@@ -116,7 +116,7 @@ Awards and honors
 ======
 
 <div class="flexcontainer">
-  <ul style="list-style-type: disc;">
+  <ul style="list-style: disc;">
     <li style="display: flex; justify-content: space-between;">
       <span>Annenberg Fellowship award</span>
       <span>[2019]</span>
