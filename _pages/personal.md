@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The other side of me"
+title: "Me beyond academia"
 permalink: /personal/
 author_profile: true
 redirect_from:

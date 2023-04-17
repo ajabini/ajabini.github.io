@@ -98,7 +98,7 @@ Skills
   * OpenCV
 
 * Tools
-  * Git  \|  Docker
+  * Git  \|  Docker  \|  Weights-and-Biases(WandB)
 
 Publications
 ======
