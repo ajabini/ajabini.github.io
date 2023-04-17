@@ -27,7 +27,7 @@ Education
         <span>2024 [Expected]</span>
       </li>
       <li style="display: flex; justify-content: space-between;">
-        <span>M.S. in Computer Science, University of Southern California</span>
+        <span>Master of Science in Computer Science, University of Southern California</span>
         <span>2022</span>
       </li>
     </ul>
