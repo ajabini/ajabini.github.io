@@ -116,20 +116,20 @@ Awards and honors
 ======
 
 <div class="flexcontainer">
-    <ul style="list-style-type: circle;">
-      <li style="display: flex; justify-content: space-between; list-style-type: circle;">
-        <span>Annenberg Fellowship award</span>
-        <span>[2019]</span>
-      </li>
-      <li style="display: flex; justify-content: space-between; list-style-type: circle;">
-        <span>6th place prizewinner of the LG Global Challenger Iran</span>
-        <span>[2018]</span>
-      </li>
-      <li style="display: flex; justify-content: space-between; list-style-type: circle;">
-        <span>Elite Foundation of Iran scholarship</span>
-        <span>[2015]</span>
-      </li>
-    </ul>
+  <ul style="list-style-type: disc;">
+    <li style="display: flex; justify-content: space-between;">
+      <span>Annenberg Fellowship award</span>
+      <span>[2019]</span>
+    </li>
+    <li style="display: flex; justify-content: space-between;">
+      <span>6th place prizewinner of the LG Global Challenger Iran</span>
+      <span>[2018]</span>
+    </li>
+    <li style="display: flex; justify-content: space-between;">
+      <span>Elite Foundation of Iran scholarship</span>
+      <span>[2015]</span>
+    </li>
+  </ul>
 </div>
 
 
