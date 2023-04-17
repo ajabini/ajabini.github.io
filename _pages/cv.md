@@ -147,7 +147,7 @@ Leadership
 * Department senator at Viterbi Graduate Student Association (VGSA) (Fall and spring 2020): 
 Chosen by department-wide election; Coordinated social, academic and career events for the department. 
 * Reseach mentor for undergradute students (Summer 2020)
- Mentored two undergraduate students in a research project. 
-* Research mentor at Viterbi Summber institute (Summer 2020)
- Mentored 4 incoming USC undergraduate students in a project. 
+ Mentored four undergraduate students in a research project. 
+* Research mentor at Viterbi Summber institute (Summer 2019)
+ Mentored two incoming USC undergraduate students in a project. 
 
