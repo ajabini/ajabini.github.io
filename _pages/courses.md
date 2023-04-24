@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 <!-- Graduate Coursework:  -->
 
-Computer Science
----
+## Graduate Courses at USC
+### Computer Science
 * CSCI 659 Online optimization
 * CSCI 677 Advanced computer vision
 * CSCI 513 Autonomous cyber physical systems
@@ -20,8 +20,13 @@ Computer Science
 * CSCI 570 Analysis of Algorithms
 * CSCI 561 Foundations of AI
 
-Fundamentals
----
+
+
+### Fundamentals
 * EE 503  Probability for Electrical and Computer Engineers
 * EE 510  Linear Algebra for Engineering
 * CE  561 Uncertainty Quantification
+
+## Online courses
+* Deep Learning Specialization [Coursera]
+* Deep Reinforcement Learning [UC Berkley, Sergey Levine]
