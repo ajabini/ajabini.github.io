@@ -30,3 +30,4 @@ redirect_from:
 ## Online courses
 * Deep Learning Specialization [Coursera]
 * Deep Reinforcement Learning [UC Berkeley, Sergey Levine]
+* Natural Language Processing [huggingface]
