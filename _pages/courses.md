@@ -21,8 +21,8 @@ redirect_from:
 * CSCI 561 Foundations of AI
 
 ## Online courses
-* Natural Language Processing [huggingface]
 * Machine Learning with Graphs [Stanford CS224W]
+* Natural Language Processing [huggingface]
 * Deep Reinforcement Learning [UC Berkeley, Sergey Levine]
 * Deep Learning Specialization [Coursera]
 
