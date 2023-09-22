@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 <!-- Graduate Coursework:  -->
 
-## Graduate Courses at USC
 ### Computer Science
 * CSCI 659 Online optimization
 * CSCI 677 Advanced computer vision
@@ -20,7 +19,7 @@ redirect_from:
 * CSCI 570 Analysis of Algorithms
 * CSCI 561 Foundations of AI
 
-## Online courses
+### Online courses
 * Machine Learning with Graphs [Stanford CS224W]
 * Natural Language Processing [huggingface]
 * Deep Reinforcement Learning [UC Berkeley, Sergey Levine]
