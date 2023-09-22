@@ -20,6 +20,11 @@ redirect_from:
 * CSCI 570 Analysis of Algorithms
 * CSCI 561 Foundations of AI
 
+## Online courses
+* Natural Language Processing [huggingface]
+* Machine Learning with Graphs [Stanford CS224W]
+* Deep Reinforcement Learning [UC Berkeley, Sergey Levine]
+* Deep Learning Specialization [Coursera]
 
 
 ### Fundamentals
@@ -27,7 +32,4 @@ redirect_from:
 * EE 510  Linear Algebra for Engineering
 * CE  561 Uncertainty Quantification
 
-## Online courses
-* Deep Learning Specialization [Coursera]
-* Deep Reinforcement Learning [UC Berkeley, Sergey Levine]
-* Natural Language Processing [huggingface]
+
