@@ -24,6 +24,7 @@ redirect_from:
 * Natural Language Processing [huggingface]
 * Deep Reinforcement Learning [UC Berkeley, Sergey Levine]
 * Deep Learning Specialization [Coursera]
+* Digital Signal Processing [EPFL on Coursera]
 
 
 ### Fundamentals
