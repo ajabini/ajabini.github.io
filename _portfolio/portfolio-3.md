@@ -4,8 +4,9 @@ excerpt: '<br><img src="/images/ner.png" alt="NER" height="300"  width="300">'
 collection: portfolio
 ---
 # NER-pipeline
-This repo contains an Name Entity Recognition pipeline for 9 entities. The project goal is to extract and parse entity
-using a sequence of components processing the text. 
+This project was done as part of my internship at [Got It AI](https://www.app.got-it.ai/). The goal was to develop a pipeline for Name Entity Recognition that can recognize entities like name, address, URL, email, Date, etc. and also parse the infromation of that entity, meaning that for an entity like adress, extract different components like street adress, apartment number and zip code from the tagged text. 
+
+I developed a pipeline that uses a modular approach for each entity. Each module takes care of one or two, if related, entities and calls the parsing service of that module to parse the entity text. A single NER model is expensive to train because of lack of high-quality data that is not based on a single domain, like Books, News, or Wikipedia. I stress-tested available NER models at the time, found gaps and filled the performance gap either by training models from scratch using our in-house datasets for that entity or improved the available performance by fine-tunning or other approaches. 
 
 ## Description
 The current pipeline is developed for these entities:
@@ -19,34 +20,11 @@ The current pipeline is developed for these entities:
 8- URL
 9- Address
 
-The pipeline consists of parser services, components, models, and tracker steps that stores and passes entity information to the next component.
-The components order in the config file specify their order in the pipeline. 
-Each component tags one or more entity types and passes the processed text to the next one.
-The active components are mentioned in the config file. Commenting a component turns it off. 
-In each component, the active entity types can be turned off as well.
-he list of available entities, the corresponding component and the parser:
+and got the average f1 score of 0.9 over these entities. 
+The pipeline consists of parser services, components, models, and tracker steps that stores.
+The components and their communications are defined in the config file. The modular approach gives the bot designer the flexibility to turn on desired entities for each client of the company.
+I presented this project in the company-wide meeting (70+ audience) at the end of my internship (Was so much fun!). Unfortunately, I don't have the permission to share the code or more details, but will be happy to chat about it if you are interested! 
 
-| Entity Name     | Component         | Parser     |
-
-|-----------------|-------------------|------------|
-
-| Money           | 1) Money <br> 2) Flair | duckling   |
-
-| URL             | url               | duckling   |
-
-| Phone           | regex             | duckling   |
-
-| Email           | regex             | duckling   |
-
-| Address         | address           | usaddress  |
-
-| Person          | flair             | -          |
-
-| Ordinal Number  | flair             | duckling   |
-
-| Cardinal Number | cardinal          | duckling   |
-
-| Datetime        | flair             | dateparser |
 
 
 <!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
