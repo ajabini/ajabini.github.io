@@ -10,15 +10,15 @@ I developed a pipeline that uses a modular approach for each entity. Each module
 
 ## Description
 The current pipeline is developed for these entities:
-1- Person name
-2- Date-time
-3- Money
-4- Cardianl Number
-5- Ordinal Number
-6- Phone Number
-7- Email
-8- URL
-9- Address
+1. Person name
+2. Date-time
+3. Money
+4. Cardianl Number
+5. Ordinal Number
+6. Phone Number
+7. Email
+8. URL
+9. Address
 
 and got the average f1 score of 0.9 over these entities. 
 The pipeline consists of parser services, components, models, and tracker steps that stores.
