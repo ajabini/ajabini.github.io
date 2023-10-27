@@ -15,27 +15,23 @@ News
 <div class="flexcontainer">
     <ul style="list-style-type: circle;">
     <li style="display: flex; justify-content: space-between;">
-        <span>Won Best Case Study Proposal at SoCal CEE Research Symposium.</span>
+        <span>Won Best Case Study Proposal at SoCal CEE Research Symposium</span>
         <span><strong>[Oct 19, 2023]</strong></span>
       </li>
     <li style="display: flex; justify-content: space-between;">
-        <span>Won Das Family Travel Award ($1000).</span>
+        <span>Won Das Family Travel Award ($1000)</span>
         <span><strong>[Aug 9, 2023]</strong></span>
       </li>
       <li style="display: flex; justify-content: space-between;">
-        <span>Abstract Accepted at IWSHM 2023. <br>Will present at Stanford in September.</span>
+        <span>Abstract Accepted at IWSHM 2023 <br>Will present at Stanford in September.</span>
         <span><strong>[April 7, 2023]</strong></span>
       </li>
       <li style="display: flex; justify-content: space-between;">
-        <span>Abstract accepted in EMI 2023.<br> Will present at EMI this year at Georgia Tech in June.</span>
+        <span>Abstract accepted in EMI 2023<br> Will present at EMI this year at Georgia Tech in June.</span>
         <span><strong>[March 15, 2023]</strong></span>
       </li>
       <li style="display: flex; justify-content: space-between;">
-        <span>Participated in EMI student paper competition.</span>
-        <span><strong>[March 15, 2023]</strong></span>
-      </li>
-      <li style="display: flex; justify-content: space-between;">
-        <span>Finished my PhD coursework.</span>
+        <span>Finished my PhD coursework</span>
         <span><strong>[December 15, 2022]</strong></span>
       </li>
     </ul>
