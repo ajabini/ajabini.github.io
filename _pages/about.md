@@ -15,11 +15,15 @@ News
 <div class="flexcontainer">
     <ul style="list-style-type: circle;">
     <li style="display: flex; justify-content: space-between;">
+        <span>Won Best Case Study Proposal at SoCal CEE Research Symposium.</span>
+        <span><strong>[Oct 19, 2023]</strong></span>
+      </li>
+    <li style="display: flex; justify-content: space-between;">
         <span>Won Das Family Travel Award ($1000).</span>
         <span><strong>[Aug 9, 2023]</strong></span>
       </li>
       <li style="display: flex; justify-content: space-between;">
-        <span>Abstract accepted at IWSHM 2023. <br>Will present at Stanford in September.</span>
+        <span>Abstract Accepted at IWSHM 2023. <br>Will present at Stanford in September.</span>
         <span><strong>[April 7, 2023]</strong></span>
       </li>
       <li style="display: flex; justify-content: space-between;">
