@@ -88,7 +88,7 @@ Skills
 
 
 * ML and Deep Learning
-  * Pytorch  \|  Tensorflow  \|  Keras  \|  Huggingface  \|  Scikit-learn
+  * Pytorch  \|  Tensorflow  \| PyG \|  Keras  \|  Huggingface  \|  Scikit-learn
 
 * Reinforcement Learning
   * OpenAI Gym  \|  Petting zoo  \|  Stable baselines
@@ -117,6 +117,14 @@ Awards and honors
 
 <div class="flexcontainer">
   <ul style="list-style: disc;">
+  <li style="display: flex; justify-content: space-between;">
+      <span>Best Case Study Proposal at SoCal CEE Research Symposium</span>
+      <span>[2023]</span>
+    </li>
+    <li style="display: flex; justify-content: space-between;">
+      <span>Das Family Travel Award</span>
+      <span>[2021]</span>
+    </li>
     <li style="display: flex; justify-content: space-between;">
       <span>Annenberg Fellowship award</span>
       <span>[2019]</span>
