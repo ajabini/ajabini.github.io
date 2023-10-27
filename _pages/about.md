@@ -23,7 +23,7 @@ News
         <span><strong>[Aug 9, 2023]</strong></span>
       </li>
       <li style="display: flex; justify-content: space-between;">
-        <span>Abstract Accepted at IWSHM 2023 <br>Will present at Stanford in September.</span>
+        <span>Abstract Accepted in IWSHM 2023 <br>Will present at Stanford in September.</span>
         <span><strong>[April 7, 2023]</strong></span>
       </li>
       <li style="display: flex; justify-content: space-between;">
