@@ -17,11 +17,11 @@ News
 <div class="flexcontainer">
     <ul style="list-style-type: circle;">
     <li style="display: flex; justify-content: space-between;">
-        <span>Passed My PhD Qualifying Exam</span>
+        <span>Passed the PhD Qualifying Exam</span>
         <span><strong>[2024]</strong></span>
       </li>
     <li style="display: flex; justify-content: space-between;">
-        <span>Won Best Case Study Proposal at SoCal CEE Research Symposium</span>
+        <span>Won the Best Case Study Proposal at SoCal CEE Research Symposium</span>
         <span><strong>[Oct 19, 2023]</strong></span>
       </li>
     <li style="display: flex; justify-content: space-between;">
@@ -33,7 +33,7 @@ News
         <span><strong>[April 7, 2023]</strong></span>
       </li>
       <li style="display: flex; justify-content: space-between;">
-        <span>Abstract accepted in EMI 2023<br> Will present at EMI this year at Georgia Tech in June.</span>
+        <span>Abstract accepted in EMI 2023<br> Will present at EMI at Georgia Tech in June.</span>
         <span><strong>[March 15, 2023]</strong></span>
       </li>
       <li style="display: flex; justify-content: space-between;">
