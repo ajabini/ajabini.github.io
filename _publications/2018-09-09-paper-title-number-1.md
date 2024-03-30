@@ -1,5 +1,5 @@
 ---
-title: "PROBABILISTIC BLIND IDENTIFICATION OF SOIL-STRUCTURE SYSTEMS USING EXTENDED KALMAN FILTER"
+title: "Probabilistic Blind Identification Of Soil-Structure Systems Using Extended Kalman Filter"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is from my masters work'
