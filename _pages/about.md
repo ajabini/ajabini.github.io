@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage!! I am Amin Jabini, currently a PhD candiate at USC. In my PhD I worked on Deep reinforcement learning in optimizing sensing in dynamical sensing in terms of handling the uncertainty and scaling to large systems. I am also working on automatic testing of multi-agent cyber-physical systems using diverse adversarial agents. In my internship at Got It AI, I developed a Name Entity Recognition framework for enterprise chatbots.
 
-I am on the job market for 2024, planning to graduate in the fall (Sep-Nov) and currently open to summer interships as well. If you want to discuss a job opportunity, email me or reach out to me on Linkedin.
+I will be graduating in the fall (Sep-Nov) and currently open to summer interships and full-time roles. If you want to discuss a job opportunity, email me or reach out to me on Linkedin.
 
  Here is the most recent news on my activities: 
 
@@ -20,7 +20,7 @@ News
     <ul style="list-style-type: circle;">
     <li style="display: flex; justify-content: space-between;">
         <span>Passed the PhD Qualifying Exam</span>
-        <span><strong>[2024]</strong></span>
+        <span><strong>[Jan 2024]</strong></span>
       </li>
     <li style="display: flex; justify-content: space-between;">
         <span>Won the Best Case Study Proposal at SoCal CEE Research Symposium</span>
